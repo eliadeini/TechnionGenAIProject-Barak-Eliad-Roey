@@ -1,0 +1,158 @@
+[
+  {
+    "correct": "offer Thursday, April 4 at 9 AM, 10 AM or 11 AM",
+    "turns": [
+      {"speaker": "recruiter", "text": "Which of your projects are you proud of?"},
+      {"speaker": "candidate", "text": "The payments service of a bank, all in Python. I maintain it for a living.", "timestamp_utc": "2024-04-03T15:12"}
+    ]
+  },
+  {
+    "correct": "offer Friday, April 12 at 9 AM, 10 AM or 11 AM",
+    "turns": [
+      {"speaker": "recruiter", "text": "Would you like to meet our team lead?"},
+      {"speaker": "candidate", "text": "Gladly, I can do next Friday.", "timestamp_utc": "2024-04-03T15:12"}
+    ]
+  },
+  {
+    "correct": "agreed Friday, April 5 at 1 PM",
+    "turns": [
+      {"speaker": "recruiter", "text": "Could you meet on Thursday, April 4 at 9 AM or 10 AM?"},
+      {"speaker": "candidate", "text": "This Friday at 1 PM would be better.", "timestamp_utc": "2024-04-03T15:12"}
+    ]
+  },
+  {
+    "correct": "agreed Thursday, April 4 at 2 PM",
+    "turns": [
+      {"speaker": "recruiter", "text": "Could you meet on Thursday, April 4 at 9 AM, 2 PM or 4 PM?"},
+      {"speaker": "candidate", "text": "The second option is great.", "timestamp_utc": "2024-04-03T15:12"}
+    ]
+  },
+  {
+    "correct": "offer Sunday, April 7 at 12 PM, 1 PM or 2 PM",
+    "turns": [
+      {"speaker": "recruiter", "text": "Could you meet on Thursday, April 4 at 9 AM or 2 PM?"},
+      {"speaker": "candidate", "text": "Sunday afternoon is better for me.", "timestamp_utc": "2024-04-03T15:12"}
+    ]
+  },
+  {
+    "correct": "offer Thursday, April 4 at 2 PM, 3 PM or 4 PM",
+    "turns": [
+      {"speaker": "recruiter", "text": "When could you meet our team lead?"},
+      {"speaker": "candidate", "text": "Tomorrow, but only after 2 PM.", "timestamp_utc": "2024-04-03T15:12"}
+    ]
+  },
+  {
+    "correct": "agreed Tuesday, April 16 at 12 PM",
+    "turns": [
+      {"speaker": "recruiter", "text": "When could you meet our team lead?"},
+      {"speaker": "candidate", "text": "April 16 at noon.", "timestamp_utc": "2024-04-03T15:12"}
+    ]
+  },
+  {
+    "correct": "agreed Friday, April 5 at 4 PM",
+    "turns": [
+      {"speaker": "recruiter", "text": "Could you meet on Thursday, April 4 at 9 AM or 10 AM?"},
+      {"speaker": "candidate", "text": "What about the day after tomorrow at 4?", "timestamp_utc": "2024-04-03T15:12"}
+    ]
+  },
+  {
+    "correct": "agreed Monday, April 8 at 3 PM",
+    "turns": [
+      {"speaker": "recruiter", "text": "Could you meet on Friday, April 5 at 9 AM?"},
+      {"speaker": "candidate", "text": "I prefer Monday at 3 PM. How long does it take?", "timestamp_utc": "2024-04-03T15:12"}
+    ]
+  },
+  {
+    "correct": "offer Friday, April 5 at 9 AM, 10 AM or 11 AM",
+    "turns": [
+      {"speaker": "recruiter", "text": "Could you meet on Thursday, April 4 at 9 AM, 11 AM or 3 PM?"},
+      {"speaker": "candidate", "text": "Thursday is impossible, I'm abroad until the evening.", "timestamp_utc": "2024-04-03T15:12"}
+    ]
+  },
+  {
+    "correct": "offer Tuesday, April 9 at 9 AM, 10 AM or 11 AM",
+    "turns": [
+      {"speaker": "recruiter", "text": "How about an interview on Tuesday of next week?"},
+      {"speaker": "candidate", "text": "That works.", "timestamp_utc": "2024-04-03T15:12"}
+    ]
+  },
+  {
+    "correct": "agreed Thursday, April 4 at 9 AM",
+    "turns": [
+      {"speaker": "recruiter", "text": "Could you meet on Thursday, April 4 at 9 AM?"},
+      {"speaker": "candidate", "text": "Yes. Is there parking at the office?"},
+      {"speaker": "recruiter", "text": "The recruiter will send you the details before the interview. Is there anything else?"},
+      {"speaker": "candidate", "text": "No, that's all. See you then!", "timestamp_utc": "2024-04-03T15:12"}
+    ]
+  },
+  {
+    "correct": "offer Tuesday, April 9 at 4 PM or 5 PM, or Thursday, April 11 at 4 PM",
+    "turns": [
+      {"speaker": "recruiter", "text": "When could you meet our team lead?"},
+      {"speaker": "candidate", "text": "Next week I can only do Tuesday or Thursday, after 4 PM.", "timestamp_utc": "2024-04-03T15:12"}
+    ]
+  },
+  {
+    "correct": "offer Thursday, April 4 at 4 PM or 5 PM, or Tuesday, April 9 at 4 PM",
+    "turns": [
+      {"speaker": "recruiter", "text": "When could you meet our team lead?"},
+      {"speaker": "candidate", "text": "Tuesday or Thursday, any time after 4 PM.", "timestamp_utc": "2024-04-03T15:12"}
+    ]
+  },
+  {
+    "correct": "offer Tuesday, May 21 at 9 AM, 10 AM or 11 AM",
+    "turns": [
+      {"speaker": "recruiter", "text": "Could you meet on Thursday, April 4 at 9 AM?"},
+      {"speaker": "candidate", "text": "I'm abroad until May 21, can we meet then?", "timestamp_utc": "2024-04-03T15:12"}
+    ]
+  },
+  {
+    "correct": "agreed Friday, March 1 at 10 AM",
+    "turns": [
+      {"speaker": "recruiter", "text": "When could you meet our team lead?"},
+      {"speaker": "candidate", "text": "The day after tomorrow at 10 AM.", "timestamp_utc": "2024-02-28T10:00"}
+    ]
+  },
+  {
+    "correct": "agreed Thursday, May 2 at 11 AM",
+    "turns": [
+      {"speaker": "recruiter", "text": "Could you meet on Wednesday, May 1 at 10 AM or Thursday, May 2 at 11 AM?"},
+      {"speaker": "candidate", "text": "Not on Wednesday, so let's do Thursday.", "timestamp_utc": "2024-04-30T09:20"}
+    ]
+  },
+  {
+    "correct": "offer Sunday, April 7 at 9 AM, 10 AM or 11 AM",
+    "turns": [
+      {"speaker": "recruiter", "text": "Could you meet on Thursday, April 4 at 2 PM or 4 PM?"},
+      {"speaker": "candidate", "text": "I'd rather come on Sunday morning. If that is impossible, then Thursday at 4.", "timestamp_utc": "2024-04-03T15:12"}
+    ]
+  },
+  {
+    "correct": "offer Thursday, April 4 at 9 AM, 10 AM or 11 AM",
+    "turns": [
+      {"speaker": "recruiter", "text": "How long have you worked with Python?"},
+      {"speaker": "candidate", "text": "Four years, mostly Flask. So what happens next?", "timestamp_utc": "2024-04-03T15:12"}
+    ]
+  },
+  {
+    "correct": "open question",
+    "turns": [
+      {"speaker": "recruiter", "text": "Which databases do you know?"},
+      {"speaker": "candidate", "text": "PostgreSQL. Who will be my manager?", "timestamp_utc": "2024-04-03T15:12"}
+    ]
+  },
+  {
+    "correct": "wants to stop",
+    "turns": [
+      {"speaker": "recruiter", "text": "Could you meet on Friday, April 5 at 9 AM?"},
+      {"speaker": "candidate", "text": "Please don't write to me again.", "timestamp_utc": "2024-04-03T15:12"}
+    ]
+  },
+  {
+    "correct": "too early",
+    "turns": [
+      {"speaker": "recruiter", "text": "Which Python frameworks do you know?"},
+      {"speaker": "candidate", "text": "None so far, to be honest.", "timestamp_utc": "2024-04-03T15:12"}
+    ]
+  }
+]
